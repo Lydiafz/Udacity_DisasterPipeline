@@ -16,11 +16,16 @@
 4. [Licensing, Authors, and Acknowledgements](#terms)
 
 <a name = "description"></a>
+
 ## Project description
-All the analysis were performed using jupyter notebook implemented in Anaconda (python 3). No special toolbox needs be installed. Sklearn was used for the linearRegression model fit.
+The current project is part of my Data Scientist Nanodegree of the Udacity. The goal of the project is to create a machine learning pipeline to categorize different disaster events, so that the messages can be sent to an appropriate disaster relief agency. The project will finally build a web app that a new message can be input and then get classification results in several categories. 
+
+Overall, the project includes an ETL Pipeline, a Machine learning pipeline, and a web app.
 
 <a name = "files"></a>
 ## File description
+
+
 
 <a name = "steps"></a>
 ## Project steps
