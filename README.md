@@ -4,7 +4,6 @@
 1. [Project description](#Project description)
 
 2. [Project steps](#Project steps)
-   i. packages(## packages)
 
 3. [Research questions](#topic)
 
