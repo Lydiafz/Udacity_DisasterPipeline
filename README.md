@@ -14,3 +14,8 @@
 
 6. [Licensing, Authors, and Acknowledgements](#terms)
 
+<a name = "Project description"></a>
+## Project description
+All the analysis were performed using jupyter notebook implemented in Anaconda (python 3). No special toolbox needs be installed. Sklearn was used for the linearRegression model fit.
+
+<a name = "Project steps"></a>
